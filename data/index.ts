@@ -44,4 +44,8 @@ export const QUOTES: QuoteProps[] = [
     author: "Oprah Winfrey",
     text: "The biggest adventure you can take is to live the life of your dreams.",
   },
+  {
+    author: "Jaroslav ITNETWORK Kotlan",
+    text: "Nebudu ti to vysvetlovat! To mas umet z domu.",
+  }
 ] as const;
